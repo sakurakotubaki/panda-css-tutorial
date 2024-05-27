@@ -49,3 +49,6 @@ function App() {
  
 export default App;
 ```
+
+## CSS Tips
+https://zenn.dev/joo_hashi/scraps/ec03381628d5ab
